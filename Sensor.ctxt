@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sensor
+comment0.text=\r\n\r\n\ @author\ Hector\ Duran\r\n
+comment1.params=fabricante\ marca\ nombre\ costo\ newTipo\ newUMedia\ newValor
+comment1.target=Sensor(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+comment4.params=
+comment4.target=java.lang.String\ getUnidadMedia()
+comment5.params=
+comment5.target=int\ getValor()
+numComments=6

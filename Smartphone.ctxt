@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Smartphone
+comment0.text=\r\n\r\n\ @author\ Hector\ Duran\r\n
+comment1.params=fabricante\ numeroSerie\ marca\ nombre\ costo\ newPantallaSmartphone\ newSensorHuella\ newRamMB\ cpu
+comment1.target=Smartphone(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ Pantalla,\ Sensor,\ int,\ Microprocesador)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=Sensor\ getSensorDeHuella()
+comment4.params=
+comment4.target=Pantalla\ getPantallaSmartphone()
+numComments=5

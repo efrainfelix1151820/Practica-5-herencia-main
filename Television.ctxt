@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Television
+comment0.text=\r\n\r\n\ @author\ Hector\ Duran\r\n
+comment1.params=fabricante\ numeroSerie\ marca\ nombre\ costo\ newPantallaTV
+comment1.target=Television(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ Pantalla)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=Pantalla\ getPantallaTV()
+numComments=4

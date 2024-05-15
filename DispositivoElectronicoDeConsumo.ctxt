@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DispositivoElectronicoDeConsumo
+comment0.text=\r\n\r\n\ @author\ Hector\ Duran\r\n
+comment1.params=fabricante\ numeroSerie\ marca\ nombre\ costo
+comment1.target=DispositivoElectronicoDeConsumo(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ encender()
+comment3.params=
+comment3.target=void\ apagar()
+comment4.params=
+comment4.target=boolean\ isEncendido()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

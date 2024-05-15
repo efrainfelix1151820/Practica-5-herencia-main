@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pantalla
+comment0.text=\r\n\r\n\ @author\ Hector\ Duran\r\n
+comment1.params=fabricante\ marca\ nombre\ costo
+comment1.target=Pantalla(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getResolucionX()
+comment4.params=
+comment4.target=int\ getResolucionY()
+numComments=5
